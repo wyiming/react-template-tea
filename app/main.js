@@ -1,8 +1,10 @@
 import React,{Component} from 'react';
-import { render } from 'react-dom';
+import ReactDOM,{render} from 'react-dom';
 
-import App from './components/App';
+import Appsss from './components/App';
+
+
 
 render((
-<App/>
+<Appsss/>
 ), document.getElementById('root'))
